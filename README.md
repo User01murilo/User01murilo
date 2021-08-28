@@ -4,7 +4,8 @@
 ### Olá, meu nome é Murilo.
 
 - 🔭 Não estou trabalhando no momento.
-- 🌱 Estudando no Instituto PROA
+- 🌱 Estudando no Instituto PROA.
+- 📚 Aprendendo HTML5 | CSS | JavaScript | C#
 ##
 <div>
     <a href="https://github.com/User01murilo">
