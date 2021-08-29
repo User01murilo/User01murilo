@@ -1,4 +1,5 @@
 [Em construção]
+
 ##
 
 ### Olá, meu nome é Murilo.
@@ -6,7 +7,9 @@
 - 🔭 Não estou trabalhando no momento.
 - 🌱 Estudando no Instituto PROA.
 - 📚 Aprendendo HTML5 | CSS3 | JavaScript | C#
+
 ##
+
 <div>
     <a href="https://github.com/User01murilo">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=User01murilo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -17,7 +20,6 @@
     <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-    <img align="center" alt="Rafa-C++" height="30" width="40" src="">
 </div>
     
 ##
