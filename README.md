@@ -31,6 +31,8 @@
     
 <div>
     <a href="https://www.linkedin.com/in/muriloesantos/" target="_blank"><img align="center" alt="LinkedIn-img" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" target="_blank"></a>
+    <a href="https://trello.com/muriloesantos" target="_blank"><img align="center" alt="Trello" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" target="_blank"></a>
+</div>
     
     
 ![Snake animation](https://github.com/User01murilo/User01murilo/blob/output/github-contribution-grid-snake.svg)
