@@ -2,7 +2,7 @@
 
 ##
 
-### Olá, meu nome é Murilo.
+### Olá, eu sou o Murilo.
 
 - 🌍 Atualmente, moro no Brasil.
 - 🔭 Não estou trabalhando no momento.
