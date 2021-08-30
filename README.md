@@ -7,7 +7,7 @@
 - 🌍 Atualmente, moro no Brasil.
 - 🔭 Não estou trabalhando no momento.
 - 🌱 Estudante do Instituto PROA.
-- 📚 Estudando sobre: HTML5 | CSS3 | JavaScript | C#
+- 📚 Estudando HTML5 | CSS3 | JavaScript | C#
 
 ##
 
