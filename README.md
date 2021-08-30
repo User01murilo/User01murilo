@@ -3,9 +3,9 @@
 ##
 
 ### Olá, meu nome é Murilo.
-
+- 🌍 Atualmente, moro no Brasil.
 - 🔭 Não estou trabalhando no momento.
-- 🌱 Estudando no Instituto PROA.
+- 🌱 Estudante do Instituto PROA.
 - 📚 Aprendendo HTML5 | CSS3 | JavaScript | C#
 
 ##
