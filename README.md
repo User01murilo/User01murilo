@@ -13,7 +13,7 @@
 
 - 🌍 I'm currently living in Brazil.
 - 🔭 Unemployed.
-- 🌱 Student of "Instituto PROA".
+- 🌱 Student of the "Instituto PROA".
 - 📚 Learning HTML5 | CSS3 | JavaScript | C# 
 ##
 
