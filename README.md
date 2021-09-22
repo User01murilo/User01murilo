@@ -1,4 +1,4 @@
-[Em construção]
+[Em construção] | [Working on it]
 
 ##
 
@@ -9,6 +9,12 @@
 - 🌱 Estudante do Instituto PROA.
 - 📚 Estudando HTML5 | CSS3 | JavaScript | C#
 
+### Hello, my name is Murilo.
+
+- 🌍 Currently, I'm living in Brazil.
+- 🔭 Unemployed.
+- 🌱 Student of "Instituto PROA".
+- 📚 Learning HTML5 | CSS3 | JavaScript | C# 
 ##
 
 <div>
@@ -28,7 +34,7 @@
     
 ##
 
-### Redes sociais:
+### Redes sociais | Social media:
     
 <div>
 <!-- <a href="" target="_blank"><img align="center" alt="" height="30" width="40" src="" target="_blank"></a> -->
