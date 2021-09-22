@@ -9,7 +9,7 @@
 - 🌱 Estudante do Instituto PROA.
 - 📚 Estudando HTML5 | CSS3 | JavaScript | C#
 
-### Hello, my name is Murilo.
+### Hello, I'm Murilo.
 
 - 🌍 Currently, I'm living in Brazil.
 - 🔭 Unemployed.
