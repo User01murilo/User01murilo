@@ -42,8 +42,4 @@
     <a href="https://trello.com/muriloesantos" target="_blank"><img align="center" alt="Trello" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" target="_blank"></a>
 </div>
     
-    
 ![Snake animation](https://github.com/muriloesantos/muriloesantos/blob/output/github-contribution-grid-snake.svg)
-
-    
-    <img align="center" alt="HTML5" height="350" width="450" src="https://github.com/LPHBackspace/Toxix-Site-Bootstrap/blob/main/projeto%20Toxix%20bootstrap/imagens/produto02.png">
