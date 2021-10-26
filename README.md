@@ -46,4 +46,4 @@
 ![Snake animation](https://github.com/muriloesantos/muriloesantos/blob/output/github-contribution-grid-snake.svg)
 
     
-<img align="center" alt="HTML5" height="350" width="450" src="https://github.com/muriloesantos/muriloesantos/blob/main/Imagens%20para%20serem%20utilizadas%20no%20meu%20perfil/laptop-336373_1920.jpg">
+<img align="center" alt="HTML5" height="350" width="450" src="https://github.com/LPHBackspace/Toxix-Site-Bootstrap/blob/main/projeto%20Toxix%20bootstrap/imagens/produto02.png">
