@@ -5,14 +5,14 @@
 ### Olá, eu sou o Murilo.
 
 - 🌍 Atualmente, moro no Brasil.
-- 🔭 Não estou trabalhando no momento.
-- 🌱 Estudante do Instituto PROA.
+- 🔭 Trabalhando na Toyota.
+- 🌱 Ex-ALuno do Instituto PROA.
 - 📚 Estudando HTML5 | CSS3 | JavaScript | C#
 
 ### Hello, I'm Murilo.
 
 - 🌍 I'm currently living in Brazil.
-- 🔭 Unemployed.
+<!-- - 🔭 Unemployed. -->
 - 🌱 Attending the “Instituto Proa”.
 - 📚 Learning HTML5 | CSS3 | JavaScript | C# 
 ##
