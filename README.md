@@ -11,8 +11,7 @@
 
 ### Hello, I'm Murilo.
 
-- 🌍 I'm currently living in Brazil.
-<!-- - 🔭 Unemployed. -->
+- 🌍 I'm currently living in Brazil.<!-- - 🔭 Unemployed. -->
 - 🌱 Attending the “Instituto Proa”.
 - 📚 Learning HTML5 | CSS3 | JavaScript | C# 
 ##
