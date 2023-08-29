@@ -5,7 +5,6 @@
 ### Olá, eu sou o Murilo.
 
 - 🌍 Atualmente, moro no Brasil.
-- 🔭 Trabalhando na Toyota.
 - 🌱 Ex-ALuno do Instituto PROA.
 - 📚 Estudando HTML5 | CSS3 | JavaScript | C#
 
